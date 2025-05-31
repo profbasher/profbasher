@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Abul Basher</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 👨‍💻 All of my projects are available at [https://profbasher.github.io/](https://profbasher.github.io/)
+- All of my projects are available at [https://profbasher.github.io/](https://profbasher.github.io/)
 
 - How to reach me **basher.send@gmail.com**
 
